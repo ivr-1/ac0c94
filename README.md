@@ -13,9 +13,9 @@ bun dev
 ```
 
 ## Prerequisites
-Node.js (v16 or later recommended)
-npm, yarn, pnpm, or bun (choose your package manager)
-Running the Development Server
+* Node.js (v16 or later recommended)
+   * npm, yarn, pnpm, or bun (choose your package manager)
+* Running the Development Server
 
 
 ## Project Structure
