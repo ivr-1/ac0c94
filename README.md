@@ -1,5 +1,5 @@
 ## Getting Started
-This is a Next.js application built using the App Router, with an integrated API endpoint serving data from root/data/graph.json. The app visualizes a Directed Acyclic Graph (DAG) of forms and allows users to manage prefill mappings for form fields.
+This project is a Next.js (https://nextjs.org) application using the App Router, with an integrated API endpoint serving data from root/data/graph.json.
 
 Start the development server with one of these commands. This launches the app on http://localhost:3000 by default:
 ```bash
@@ -19,7 +19,7 @@ Running the Development Server
 
 
 ## Project Structure
-* API Endpoint: The "FrontEndChallengeServer" is a Route Handler at /frontendchallengeserver.
+* API endpoint "FrontEndChallengeServer" has been integrated:
     * Location: src/app/frontendchallengeserver/route.ts (TypeScript)
     * Access: Visit http://localhost:3000/frontendchallengeserver to see the raw JSON response.
     * Data Source: The API reads from data/graph.json in the project root.
